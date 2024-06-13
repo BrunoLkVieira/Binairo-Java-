@@ -22,7 +22,7 @@ O projeto é formado por 2 pacotes: Front-end e Back-end. Além de utilizar uma 
   #### -Class Board:
         ->class filha da "Tabuleiro" da engine cardgamemaker-0.3 
 
-  ####-class Jogo: onde fica a logica do jogo.
+  #### -class Jogo: onde fica a logica do jogo.
         -> geração do tabuleiro
         -> execução dos movimentos
         -> Verificações de regras
