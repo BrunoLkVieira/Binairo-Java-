@@ -36,7 +36,7 @@ O projeto é formado por 2 pacotes: Front-end e Back-end. Além de utilizar uma 
 
 Binairo é um quebra-cabeça lógico com regras simples e soluções desafiadoras.
 
-### Binairo é jogado em uma grade retangular sem tamanho padrão. Algumas células começam preenchidas com círculos Vermelhos ou Azuis. O resto das células estão vazias. O objetivo é colocar círculos em todas as células de forma que:
+#### Binairo é jogado em uma grade retangular sem tamanho padrão. Algumas células começam preenchidas com círculos Vermelhos ou Azuis. O resto das células estão vazias. O objetivo é colocar círculos em todas as células de forma que:
       1. Cada linha e cada coluna deve conter um número igual de círculos Vermelhos(1) e Azuis(0).
       2. Mais de dois círculos da mesma cor não podem ser adjacentes.
       3. Cada linha e coluna é única.
