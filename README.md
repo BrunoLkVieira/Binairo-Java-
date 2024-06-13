@@ -1,20 +1,20 @@
 # Binairo-Java-
 
 
-## Descrição do projeto: 
+# Descrição do projeto: 
 
 O projeto é formado por 2 pacotes: Front-end e Back-end. Além de utilizar uma engine chamada cardgamemaker-0.3 
 
-### Front-end:
+## Front-end:
 
-  -class Interface: onde esta toda interface visualizada pelo usuario.
+  ### -class Interface: onde esta toda interface visualizada pelo usuario.
         -> menu 
         -> visualização do tabuleiro
         -> Menu de pause
         -> entre outras interface...
 
 
-### Back-End:
+## Back-End:
 
   #### -Class Card:
         ->class filha da "Carta" da engine cardgamemaker-0.3 
