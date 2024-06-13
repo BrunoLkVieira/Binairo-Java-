@@ -1,5 +1,7 @@
 # Binairo-Java-
-##Binairo é um quebra-cabeça lógico com regras simples.
+
+
+## Descrição do projeto: 
 
 _O projeto é formado por 2 pacotes: Front-end e Back-end. Além de utilizar uma engine chamada cardgamemaker-0.3 
 
