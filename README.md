@@ -48,7 +48,7 @@ Binairo é um quebra-cabeça lógico com regras simples e soluções desafiadora
 
   ## Sobre o Autor:
 
-  Prazer, Eu sou o bruno! Tenho 21 anos e estou cursando o 5° periodo de Ciencia da computação na Anhanguera.
+  Prazer, Eu sou o bruno Vieira! Tenho 21 anos e estou cursando o 5° periodo de Ciencia da computação na Anhanguera.
   
   Esse projeto é um trabalho de POO, um dos mais dificeis ate agora, mas isso nao vai me fazer desistir.
   
