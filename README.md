@@ -17,10 +17,10 @@ O projeto é formado por 2 pacotes: Front-end e Back-end. Além de utilizar uma 
 ### Back-End:
 
   #### -Class Card:
-        -> class filha da "Carta" da engine cardgamemaker-0.3 
+        -> class filha da class "Carta" da engine cardgamemaker-0.3 
         
   #### -Class Board:
-        -> class filha da "Tabuleiro" da engine cardgamemaker-0.3 
+        -> class filha da class "Tabuleiro" da engine cardgamemaker-0.3 
 
   #### -class Jogo: onde fica a logica do jogo.
         -> geração do tabuleiro
