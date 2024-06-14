@@ -54,4 +54,4 @@ Binairo é um quebra-cabeça lógico com regras simples e soluções desafiadora
   
   Sendo este meu primeiro contato com o java (espero que o ultimo kkkk), acredito ter me saido bem, mas infelizmente não consegui dar tudo de mim por ter um acumulo de trabalhos e provas.
 
-  Deixando a brincadeira de lado, tentarei dar algumas melhoradas nesse projeto, com o objetivo de deixar o codigo mais limpo e legivel.
+  Deixando a brincadeira de lado, tentarei, futuramente, melhorar esse projeto, com o objetivo de deixar o codigo mais limpo e legivel.
