@@ -31,6 +31,8 @@ O projeto é formado por 2 pacotes: Front-end e Back-end. Além de utilizar uma 
         ->  salvar e carregar um jogo manualmente
         ->  salvar e carregar automaticamente 
       
+
+
   
   ## Regras do Jogo: 
 
@@ -41,3 +43,13 @@ Binairo é um quebra-cabeça lógico com regras simples e soluções desafiadora
       2. Mais de dois círculos da mesma cor não podem ser adjacentes.
       3. Cada linha e coluna é única.
     Se mova pelo tabuleiro utilizando as setas, pressione ENTER/ESPAÇO para alternar entre as cartas azul(0), vermelha(1) e vazia.
+
+
+
+  ## Sobre o Autor:
+
+  Prazer, Eu sou o bruno! Tenho 21 anos e estou cursando o 5° periodo de Ciencia da computação na Anhanguera, espero que esse projeto me faça passar para o proximo sem mais dores de cabeça kkkkkk.
+  Esse projeto é um trabalho de POO, um dos mais dificeis ate agora, mas isso nao vai me parar.
+  Sendo este meu primeiro contato com o java (espero que o ultimo kkkk), acredito ter me saido bem, mas infelizmente não consegui dar tudo de mim por ter um acumulo de trabalhos e provas.
+
+  Deixando a brincadeira de lado, tentarei dar algumas melhoradas nesse projeto, com o objetivo de deixar o codigo mais limpo e legivel.
